@@ -1,0 +1,158 @@
+/*CSS Document */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('pexels-kei-scampa-10755725.jpg');
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.nav-menu {
+  float: right;
+  list-style: none;
+  margin-top: 30px;
+}
+
+.nav-menu li {
+  display: inline-block;
+}
+
+.nav-menu li a {
+  color: #CE1141;
+  text-decoration: none;
+  padding: 5px 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+
+.homebutton {
+  border: 1px solid gray;
+  background-color: white;
+}
+
+.nav-menu li a:hover {
+  border: 1px solid gray;
+  background-color: white;
+}
+
+.tagline {
+  position: absolute;
+  width: 1200px;
+  margin-left: 0;
+  margin-top: 0;
+}
+
+h1 {
+  color: white;
+  font-size: 60px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 275px;
+  margin-left: 100px;
+}
+
+p {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 100px;
+}
+
+.story {
+  position: absolute;
+  width: 1200px;
+  margin-left: 0;
+  margin-top: 50px;
+}
+
+.story-1 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 150px;
+  font-size: 20px;
+}
+
+.story-2 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 15px;
+}
+
+.story-3 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 80px;
+}
+
+.about {
+  position: absolute;
+  width: 1200px;
+  margin-left: 0;
+  margin-top: 50px;
+}
+
+.about-1 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 150px;
+  font-size: 20px;
+}
+
+.why {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.about-3 {
+  position: absolute;
+  width: 1200px;
+  margin-left: 0;
+  margin-top: 50px;
+}
+
+.about-4 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 150px;
+  font-size: 20px;
+}
+
+.strengths {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 15px;
+}
+
+.strengths-1 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
