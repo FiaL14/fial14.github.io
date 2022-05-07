@@ -5,10 +5,10 @@
 }
 
 header {
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('pexels-kei-scampa-10755725.jpg');
+  background-image: fixed;
   height: 100vh;
   background-size: cover;
-  background-position: center;
+  background-position: fixed;
 }
 
 .nav-menu {
@@ -47,7 +47,7 @@ header {
 }
 
 h1 {
-  color: white;
+  color: #CE1141;
   font-size: 60px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
@@ -56,7 +56,7 @@ h1 {
 }
 
 p {
-  color: white;
+  color: #CE1141;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   margin-top: 30px;
@@ -71,7 +71,7 @@ p {
 }
 
 .story-1 {
-  color: white;
+  color: #CE1141;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   margin-top: 150px;
@@ -87,7 +87,7 @@ p {
 }
 
 .story-3 {
-  color: white;
+  color: #CE1141;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   margin-top: 80px;
@@ -101,7 +101,7 @@ p {
 }
 
 .about-1 {
-  color: white;
+  color: #CE1141;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   margin-top: 150px;
@@ -109,7 +109,7 @@ p {
 }
 
 .why {
-  color: white;
+  color: #CE1141;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   margin-top: 50px;
@@ -123,7 +123,7 @@ p {
 }
 
 .about-4 {
-  color: white;
+  color: #CE1141;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   margin-top: 150px;
@@ -131,7 +131,7 @@ p {
 }
 
 .strengths {
-  color: white;
+  color: #CE1141;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   margin-top: 15px;
@@ -139,14 +139,20 @@ p {
 }
 
 .strengths-1 {
-  color: white;
+  color: #CE1141;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   margin-top: 15px;
   font-size: 15px;
 }
 
-
+.strengths-2 {
+  color: #CE1141;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 15px;
+  font-size: 15px;
+}
 
 
 
